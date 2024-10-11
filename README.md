@@ -27,5 +27,7 @@ The project resulted in an interactive and scalable Power BI solution that empow
 I have attached the snapshot of the report, however, here is my Git Hub link that Presents this work:
 https://app.powerbi.com/view?r=eyJrIjoiMmExNmUxOGMtYmExMC00OGY3LWExZjMtZjdkMTAwNzMzYjNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+![revenue dashboard](https://github.com/ScaryPnj/Business-Insights-360-Dashboard-for-Finance-Sales-Marketing-and-Supply-Chain/blob/ee96f4351f0d6b82289e94c95288795db0fe0aea/Bi%20360%20project.png)
+
 ---
 
