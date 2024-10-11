@@ -23,5 +23,9 @@ AtliQ Hardwares, a rapidly expanding consumer electronics company, was strugglin
 ## Outcome
 The project resulted in an interactive and scalable Power BI solution that empowered AtliQ Hardwares to make data-driven decisions across multiple departments.
 
+## Project link 
+I have attached the snapshot of the report, however, here is my Git Hub link that Presents this work:
+https://app.powerbi.com/view?r=eyJrIjoiMmExNmUxOGMtYmExMC00OGY3LWExZjMtZjdkMTAwNzMzYjNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ---
 
